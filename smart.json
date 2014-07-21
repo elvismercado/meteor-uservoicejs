@@ -1,0 +1,11 @@
+{
+  "name": "uservoice",
+  "description": "UserVoice provides a feedback and support widget that can be embedded on any website.",
+  "homepage": "https://github.com/elvismercado/uservoice-meteor",
+  "author": "Elvis Mercado <mercado_e@live.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/elvismercado/uservoice-meteor.git",
+  "packages": {
+  	
+  }
+}
